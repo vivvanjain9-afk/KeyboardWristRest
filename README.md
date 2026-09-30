@@ -5,6 +5,7 @@ Here is the google doc link with everything you need :D https://docs.google.com/
 <img width="1183" height="572" alt="Screenshot 2026-09-27 111013" src="https://github.com/user-attachments/assets/62e27f5d-30c9-4ac0-81af-73d45f049d30" />
 This is an image of the wrist rest in 3d :D
 
+
 | Item | Material / Component | Quantity | Source / Link |
 | :---: | :--- | :---: | :--- |
 | **1** | Neodymium Rectangular Magnets | 1 Pack (30 pcs) | [Walmart](https://walmart.com) |
