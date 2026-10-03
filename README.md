@@ -1,6 +1,10 @@
 # KeyboardWristRest
 Making a keyboard wrist rest
 Here is the google doc link with everything you need :D https://docs.google.com/document/d/1QzCvXVaWmpt-y1JUkKwJqQ7jH_eMtzIwHPhlx8wdCZI/edit?usp=sharing
+<img width="1343" height="732" alt="image" src="https://github.com/user-attachments/assets/35c72a29-9efe-472d-affd-a9d2d5cd66ad" />
+<img width="899" height="554" alt="image" src="https://github.com/user-attachments/assets/11f38173-3bf7-47b0-98ba-2c0bcaf7d580" />
+<img width="524" height="315" alt="image" src="https://github.com/user-attachments/assets/4b695c36-abca-40c7-b724-09f22e3d91f0" />
+<img width="524" height="315" alt="image" src="https://github.com/user-attachments/assets/30e80916-132d-43aa-b020-4889d3421de4" />
 
 <img width="1183" height="572" alt="Screenshot 2026-09-27 111013" src="https://github.com/user-attachments/assets/62e27f5d-30c9-4ac0-81af-73d45f049d30" />
 This is an image of the wrist rest in 3d :D
